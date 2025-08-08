@@ -1,0 +1,20 @@
+{
+  "data": {
+    "customer": "Small Business",
+    "app_id": "basic-app",
+    "services": [
+      {
+        "id": "basic",
+        "name": "Basic Service"
+      }
+    ],
+    "limits": {
+      "users": 5
+    },
+    "issued_at": 1754636875,
+    "expires_at": 1757228875
+  },
+  "signature": "DTf8fsXG8uMnoCzPPMXIj0yp3TpwDkHrnDoG6FR0D5cSzQl7HuMM4KcCmb+5KhbVJ0ixyK/W5sYube9DSk+8PmVfYVhBzn7nzPXrhk2PSnOm4q50NBOPeQNXvmDOsMVlaXopmpcW6aUi9QIROrzRWW1Tj5m7A9K4rkBUflYqDrR2vh2YlaH/jvgJbpubzooQK5N7WRUMUOqV4RzHhiLOuVjO8dvhs/oeaY6ec6kT2X+YjGyhmWgg9P7z0qUWSw1hbbBuIlN1WGrLOS6B4AMBbt3M+2A/WPt93QZ/wN56ZEKSFU7a2x/UzCg69pVmG5PGnaajj2AJ6IBZqpcL0yYuYA==",
+  "algorithm": "RS256",
+  "created_at": 1754636875
+}

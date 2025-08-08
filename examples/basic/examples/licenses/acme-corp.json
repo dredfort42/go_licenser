@@ -1,0 +1,35 @@
+{
+  "data": {
+    "customer": "Acme Corporation",
+    "app_id": "acme-web-app-v1",
+    "services": [
+      {
+        "id": "web-api",
+        "name": "Web API Service",
+        "description": "REST API access for web application"
+      },
+      {
+        "id": "database",
+        "name": "Database Service",
+        "description": "Database access and operations"
+      }
+    ],
+    "limits": {
+      "api_calls": 10000,
+      "storage_gb": 50,
+      "users": 100
+    },
+    "features": {
+      "analytics": true,
+      "backup": true,
+      "reporting": false
+    },
+    "issued_at": 1754642226,
+    "expires_at": 1786178226,
+    "version": "1.0.0",
+    "environment": "production"
+  },
+  "signature": "ziUQ7K+fClkZhg2I+u5AHfpN88YnPYZ17Ago+t68mEkEVT/Atui60fL3cpp67QTLX585EsN94bJRwAnPNpPZ590EDSzY8Mhnu/8YUYd6Hva3Pe+6BW4zPJ0Xq5l1hPCovgZM9/SpcEno251DXUSLooIcJjYwQXbdr97IV6j/c43qmjAcaHj0GpGOmDI+H24/8b1UepNdpNIlL6j1rBX0f3IXIOiYqZN7vuJ7ZNHAPhQsyfSV1TXBk/uXhGW4nZiG2zlG8YyEKOScMcjPFoG0bKhsL7mwUrBOlB1a08itUk8kmFkb9N2puGQeSlNkVsJKGQg2sw/6skAjKVb/9AVOQg==",
+  "algorithm": "RS256",
+  "created_at": 1754642226
+}

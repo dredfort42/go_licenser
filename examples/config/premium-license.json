@@ -1,0 +1,29 @@
+{
+  "data": {
+    "customer": "Enterprise Corp",
+    "app_id": "premium-app",
+    "services": [
+      {
+        "id": "api",
+        "name": "API Service"
+      },
+      {
+        "id": "analytics",
+        "name": "Analytics Service"
+      }
+    ],
+    "limits": {
+      "api_calls": 100000,
+      "users": 1000
+    },
+    "features": {
+      "backup": true,
+      "reporting": true
+    },
+    "issued_at": 1754636875,
+    "expires_at": 1786172875
+  },
+  "signature": "zWoa+nRddNijX2boANhkecOsddaLT5xA2QMPmKcoL8PFIAXiLdpawD5zZbaxMoU0glDyc0hOkvhYR8D/DNbrOX4Lwdr7FcFeXXCDMBbOegw+t+Q+XKuQ/CjcVOzYYXif6BcfDuSPrTsuOyYU78CSMZiqIZl64j5WvcRdoN2wyld3e4DWg4RnfKWCLIjIGBw7SXbmT19Jf8fd7mINGQfQF9aG5zuxRMTHd03eRfrQLd2Mbl8YWTp73mgC4ZMQ038CjZTkM7TQgdm41gUuN5XILjBlJaxI/q4SUiPFSqEXiekfT0Y5TdHZU1ik3cZBVYCXARuJ+kwtHiO6IKtsCyEE/w==",
+  "algorithm": "RS256",
+  "created_at": 1754636875
+}

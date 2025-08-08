@@ -1,0 +1,19 @@
+{
+  "data": {
+    "customer": "Lifetime Customer",
+    "app_id": "lifetime-app",
+    "services": [
+      {
+        "id": "all",
+        "name": "All Services"
+      }
+    ],
+    "features": {
+      "everything": true
+    },
+    "issued_at": 1754636875
+  },
+  "signature": "vFTFHd+QYnN+hYbNMVfyegj+NKhvmoJc8iWNhPBdGkg2Qyvuy1P0ym+PT3czrGQo0LUYvFsCIg2RkDGtH4KX1Ei+PCkFgK/eG/XzDbsR8GuocqS/FCvn431Q6qWHlEVJm1yiTqHCz3AX2dje4SN7CT60yIeenY1wKR+nNnrYCfduBlB1GIh6ZGmUD4Hm7QKZVMTvYODsW2pgUGHCxyqgj02A/bUpDNO2cel54KUt7f1LPBYyWm7iHQEyrLydx2Ko70wkv9l4Mr1YBMsQQl8+KRI7I1o7pSaf5fc+9sSYVU3v88POgbGw14j++4D1QIGQ2OsgCIeiDTzGJeRqyF+nsg==",
+  "algorithm": "RS256",
+  "created_at": 1754636875
+}
